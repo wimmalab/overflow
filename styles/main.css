@@ -257,7 +257,8 @@ strong {
     display: block;
     margin-top: 5vh; }
     .team-member p {
-      font-size: 2em; } }
+      font-size: 2em;
+      height: 50vh; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 
