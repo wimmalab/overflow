@@ -207,6 +207,13 @@ p {
 .solution {
 }
 
+.wrapper {
+  text-align: center;
+  position: relative;
+  top: -15vh;
+  padding: 20px 20px 200px;
+}
+
 .team {
   min-height: 100vh;
   background: url(../img/team.jpg);
